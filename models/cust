@@ -1,0 +1,3 @@
+with cust as (
+    select * from cust
+)
